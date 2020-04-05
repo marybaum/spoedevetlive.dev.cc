@@ -1,0 +1,11 @@
+
+09-05-2019 13:30:39.1557408639.9387 [127.0.0.1][5cd42b][info] Start plugin migration < 1.3.0
+09-05-2019 13:30:40.1557408640.0406 [127.0.0.1][5cd42b][info] Plugin migration was successfull!
+09-05-2019 13:30:40.1557408640.0414 [127.0.0.1][5cd42b][info] Start plugin migration < 1.3.6
+09-05-2019 13:30:40.1557408640.042 [127.0.0.1][5cd42b][info] Plugin migration was successfull!
+26-03-2020 17:39:05.1585244345.9321 [127.0.0.1][5e7ce8][info] Parent plugin start installation!
+26-03-2020 17:39:05.1585244345.9354 [127.0.0.1][5e7ce8][info] Plugin installation: try create plugin tables.
+																	-DB Version: 0
+																	-Plugin Version in DB: 0
+																	-Current Plugin Version: 1.4.2
+26-03-2020 17:39:05.1585244345.9749 [127.0.0.1][5e7ce8][info] Parent plugin installation complete!
